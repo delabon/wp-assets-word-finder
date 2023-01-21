@@ -1,0 +1,1 @@
+# wp-assets-word-finder
